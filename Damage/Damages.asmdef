@@ -1,0 +1,20 @@
+{
+    "name": "Damages",
+    "rootNamespace": "",
+    "references": [
+        "GUID:160596ca11d4f714497fbdeeb1f4eda7",
+        "GUID:f120ef0b7aea52d40841d3d36bf65c5d",
+        "GUID:b58b9b78e66a486488c01e85bfbc82fd",
+        "GUID:b525eb7a9b2d7db4fa18efec0e3b3db9",
+        "GUID:e8afa6ea64579cc41b7dca5bc222aefa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

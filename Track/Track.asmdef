@@ -1,0 +1,19 @@
+{
+    "name": "Track",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2fdef4a859838e3449b625605ab13c25",
+        "GUID:f120ef0b7aea52d40841d3d36bf65c5d",
+        "GUID:e8afa6ea64579cc41b7dca5bc222aefa",
+        "GUID:2f64649e130efb44fbb0b0a15ad2b948"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

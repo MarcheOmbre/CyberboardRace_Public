@@ -1,0 +1,22 @@
+{
+    "name": "Element",
+    "rootNamespace": "",
+    "references": [
+        "SoundReactor",
+        "PoolKit",
+        "Track",
+        "Pools",
+        "Dreamteck.Splines",
+        "Settings",
+        "Data"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

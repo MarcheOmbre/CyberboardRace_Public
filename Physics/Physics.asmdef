@@ -1,0 +1,16 @@
+{
+    "name": "Physics",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e8afa6ea64579cc41b7dca5bc222aefa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
