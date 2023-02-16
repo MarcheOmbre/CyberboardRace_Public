@@ -5,17 +5,16 @@ CyberboardRace Project's code (Assets not included)
 
 ## Description
 
-Relaxing space is a free experience compatible with the Oculus Quest 2. 
+Cyberboard is an endless runner using mechanics inspired by True Skate.
 
-It aims to guide the player through the space, inside the LXY-146.  
+The player is on a Hoverboard. His goal is to execute as many tricks as possible during the ride.
 
-In this adventure, the journey is more important than the destination.
+More info [here](https://victorportfolio.eu/portfolio/cyberboard)
 
-More info [here](https://victorportfolio.eu/portfolio/relaxing-space)
-
-[![Watch the video](https://images.squarespace-cdn.com/content/v1/6192c075ca1cf524b3d3834f/1638778890246-Q3D59GM0J8FK17VQ40XW/RS.png)](https://youtu.be/l6DB_zJL1ww)
+[![Watch the video](https://images.squarespace-cdn.com/content/v1/6192c075ca1cf524b3d3834f/1676549383782-V4PTVGFR85GF7FYB0W7G/CyberboardPicture.png)](https://youtu.be/2Tt3LqnCxG0)
 
 ## Status
 
 Prototype
+
 
